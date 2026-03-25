@@ -3,7 +3,7 @@
 import java.util.Scanner;
 public class Exercicio01{
     public static void main(String[] args){
-
+//teste
         Scanner teclado = new Scanner (System.in);
            
         System.out.println("Digite seu número");
