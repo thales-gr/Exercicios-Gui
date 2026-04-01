@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio02 {
+public class Exer02 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         String[] meses = { "Janeiro", "Fevereiro", "Março", "Abril", "Maio", "Junho",
